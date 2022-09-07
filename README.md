@@ -4,7 +4,7 @@
 ### In this project we will be building an Air Quality Index Predictor with the help of Machine Learning Models and Auto ML library i.e. TPOT
 This repository contains code to predict the air quality based on the given parameters.
 
-##Dataset
+## Dataset
 Dataset of Bangalore city with the Air Quality Index information from the year 2013-2018. 
 - [Data](https://github.com/olalekanfayemi/-Air-Quality-Index-Prediction/blob/main/AQI%20Data.csv)<br>
 The data was taken from the website: (https://en.tutiempo.ne
