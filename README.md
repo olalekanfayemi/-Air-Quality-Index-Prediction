@@ -6,7 +6,7 @@ This repository contains code to predict the air quality based on the given para
 
 ##Dataset
 Dataset of Bangalore city with the Air Quality Index information from the year 2013-2018. 
-- [Data](https://github.com/evon0101/Air-Quality-index-Prediction/blob/main/Data/city_hour.csv)
+- [Data](https://github.com/olalekanfayemi/-Air-Quality-Index-Prediction/blob/main/AQI%20Data.csv)<br>
 The data was taken from the website: (https://en.tutiempo.ne
 
 ### Feature abbreviation and meaning:
