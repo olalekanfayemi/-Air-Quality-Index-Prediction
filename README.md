@@ -34,4 +34,5 @@ Below are the machine learning models used for this project
 - [TPOTRegressor]
 
 ## :gear: Project Demo
-- Application is hosted on Heroku. You can see the [demo]
+- Application is hosted on Heroku. You can see the [demo here].
+
